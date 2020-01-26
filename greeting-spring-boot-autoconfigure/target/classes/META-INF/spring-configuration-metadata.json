@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "com.peterpeng.greeting",
+      "type": "com.peterpeng.GreeterProperties",
+      "sourceType": "com.peterpeng.GreeterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.peterpeng.greeting.afternoon-message",
+      "type": "java.lang.String",
+      "sourceType": "com.peterpeng.GreeterProperties"
+    },
+    {
+      "name": "com.peterpeng.greeting.evening-message",
+      "type": "java.lang.String",
+      "sourceType": "com.peterpeng.GreeterProperties"
+    },
+    {
+      "name": "com.peterpeng.greeting.morning-message",
+      "type": "java.lang.String",
+      "sourceType": "com.peterpeng.GreeterProperties"
+    },
+    {
+      "name": "com.peterpeng.greeting.night-message",
+      "type": "java.lang.String",
+      "sourceType": "com.peterpeng.GreeterProperties"
+    },
+    {
+      "name": "com.peterpeng.greeting.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.peterpeng.GreeterProperties"
+    }
+  ],
+  "hints": []
+}
